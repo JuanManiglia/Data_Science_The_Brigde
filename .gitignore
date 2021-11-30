@@ -134,3 +134,9 @@ dmypy.json
 # CSV
 train-balanced-sarcasm.csv
 data.npz
+
+# Carpetas
+/aclImdb
+
+# texto
+*.txt
